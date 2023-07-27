@@ -5,8 +5,8 @@
 ## Overview
 In this folder are available a set of examples of using Stimulsoft Reports.JS builder in React apps:
   
-* [Integrating the Report Components into a Django app using VS Code](https://github.com/stimulsoft/Samples-Reports.JS-for-Python/tree/main/Integrating%20the%20Report%20Components%20into%20a%20Django%20app%20using%20VS%20Code)  
-This folder contains demo of using Stimulsoft Reports.JS product in the Django web server, created with VS Code.
+* [Integrating the Report Components into a Django Web Application](https://github.com/stimulsoft/Samples-Reports.JS-for-Python/tree/main/Integrating%20the%20Report%20Components%20into%20a%20Django%20Web%20Application)  
+This folder contains demo of using Stimulsoft Reports.JS product in the Django web server, created with Visual Studio Code.
 
 ## Other JS reporting components
 Many examples for other platforms and technologies are collected in separate repositories:
