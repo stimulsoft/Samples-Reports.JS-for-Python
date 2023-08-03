@@ -9,7 +9,10 @@ In this folder are available a set of examples of using Stimulsoft Reports.JS bu
 This folder contains demo of using Stimulsoft Reports.JS product in the Django web server, created with Visual Studio Code.  
   
 * [Integrating the Report Components into a Flask Web Application](https://github.com/stimulsoft/Samples-Reports.JS-for-Python/tree/main/Integrating%20the%20Report%20Components%20into%20a%20Flask%20Web%20Application)  
-This folder contains demo of using Stimulsoft Reports.JS product in the Flask web server, created with Visual Studio Code.
+This folder contains demo of using Stimulsoft Reports.JS product in the Flask web server, created with Visual Studio Code.  
+  
+* [Integrating the Report Components into a native Python Web Application](https://github.com/stimulsoft/Samples-Reports.JS-for-Python/tree/main/Integrating%20the%20Report%20Components%20into%20a%20native%20Python%20Web%20Application)  
+This folder contains demo of using Stimulsoft Reports.JS product in the native Python web server (SimpleHTTPServer), created with Visual Studio Code.
 
 ## Other JS reporting components
 Many examples for other platforms and technologies are collected in separate repositories:
