@@ -8,7 +8,7 @@
             "name": "Python: Native",
             "type": "python",
             "request": "launch",
-            "program": "${workspaceFolder}\\server.py",
+            "program": "${workspaceFolder}\\app.py",
             "justMyCode": true
         }
     ]
