@@ -28,9 +28,11 @@ class Application(tornado.web.Application):
         )
         tornado.web.Application.__init__(self, handlers, **settings)
 
+PORT=8000
 async def main():
     app = Application()
-    app.listen(8888)
+    app.listen(PORT)
+    print("Starting development server at http://127.0.0.1:{0}/".format(PORT))
     await asyncio.Event().wait()
 
 if __name__ == "__main__":

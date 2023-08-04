@@ -14,4 +14,5 @@ PORT = 8000
 my_server = socketserver.TCPServer(("", PORT), handler_object)
 
 # Star the server
+print("Starting development server at http://127.0.0.1:{0}/".format(PORT))
 my_server.serve_forever()
